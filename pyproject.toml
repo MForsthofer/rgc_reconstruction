@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "readlif>=0.6.5",
+    "matplotlib>=3.10.1",
+    "tifffile>=2025.3.13",
 ]
 
 [build-system]
