@@ -8,6 +8,8 @@ dependencies = [
     "readlif>=0.6.5",
     "matplotlib>=3.10.1",
     "tifffile>=2025.3.13",
+    "skimage",
+    "scikit-image",
 ]
 
 [build-system]
