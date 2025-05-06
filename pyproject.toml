@@ -10,6 +10,8 @@ dependencies = [
     "tifffile>=2025.3.13",
     "skimage",
     "scikit-image",
+    "cellpose",
+    "seaborn",
 ]
 
 [build-system]
