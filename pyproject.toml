@@ -12,6 +12,7 @@ dependencies = [
     "scikit-image",
     "cellpose",
     "seaborn",
+    "plotly",
 ]
 
 [build-system]
